@@ -1,6 +1,6 @@
 # Eightinity Skills
 
-![License](https://img.shields.io/github/license/eightinity/skills)
+![License](https://img.shields.io/badge/license-MIT-blue)
 ![Version](https://img.shields.io/github/v/release/eightinity/skills?label=version)
 ![Skills](https://img.shields.io/badge/skills-1-7C3AED)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-compatible-black)

@@ -6,6 +6,9 @@ on:
     # Don't re-trigger on the version bump commit itself
     paths-ignore:
       - 'package.json'
+      - 'README.md'
+      - 'LICENSE'
+      - '.github/**'
 
 permissions:
   contents: write
