@@ -1,0 +1,11 @@
+{
+  "name": "@eightinity/skills",
+  "version": "1.0.0",
+  "description": "Claude Code skills by Eightinity",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eightinity/skills.git"
+  },
+  "homepage": "https://github.com/eightinity/skills#readme"
+}
