@@ -1,0 +1,8 @@
+{"id": 1, "input": "Is 'contains 2% or less of soy lecithin' a soy allergen disclosure?", "prediction": "yes", "gold": "yes", "score": 1.0}
+{"id": 2, "input": "Classify sentiment: 'The battery life is fine, nothing special.'", "prediction": "positive", "gold": "neutral", "score": 0.0}
+{"id": 3, "input": "Does 'natural flavors' always mean the product is vegan?", "prediction": "no, natural flavors can be derived from animal sources", "gold": "yes, natural flavors are always plant-based", "score": 0.0}
+{"id": 4, "input": "Extract the due date from: 'Payment due 15 days after invoice, issued March 1.'", "prediction": "March 15", "gold": "March 16", "score": 0.0}
+{"id": 5, "input": "Classify sentiment: 'Absolutely terrible, do not buy.'", "prediction": "negative", "gold": "negative", "score": 1.0}
+{"id": 6, "input": "Extract the due date from: 'Payment due 30 days after invoice, issued Jan 10.'", "prediction": "Feb 9", "gold": "Feb 10", "score": 0.0}
+{"id": 7, "input": "Classify sentiment: 'It works, I guess. Does the job.'", "prediction": "neutral", "gold": "positive", "score": 0.0}
+{"id": 8, "input": "Does 'may contain traces of tree nuts' mean the product contains tree nuts?", "prediction": "no, it's a precautionary cross-contact warning, not a declared ingredient", "gold": "no, it's a precautionary cross-contact warning, not a declared ingredient", "score": 1.0}
